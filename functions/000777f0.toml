@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:52:54.040111Z
+last_change = 2026-09-10T18:36:01.089332Z
 addr = 0x777f0
 size = 0x1a2
-name = "sub_1800787F0"
+name = "SDL_PreInitMouse"
+type = "char"
 
 [header]
-name = "sub_1800787F0"
+name = "SDL_PreInitMouse"
 addr = 0x777f0
+type = "char"
 
 [header.args]

@@ -1,0 +1,90 @@
+[0x7765d]
+last_change = 2026-09-10T18:36:01.085672Z
+addr = 0x7765d
+func_addr = 0x77640
+comment = "0xC6 = 198LL = SDL_Mouse::warp_emulation_active"
+decompiled = true
+
+[0x776cb]
+last_change = 2026-09-10T18:36:01.087478Z
+addr = 0x776cb
+func_addr = 0x776a0
+comment = "0x88 = 136LL = SDL_Mouse::focus"
+decompiled = false
+
+[0x776e8]
+last_change = 2026-09-10T18:36:01.087487Z
+addr = 0x776e8
+func_addr = 0x776a0
+comment = "0xA0 = 160LL = SDL_Mouse::last_x"
+decompiled = true
+
+[0x776f0]
+last_change = 2026-09-10T18:36:01.087492Z
+addr = 0x776f0
+func_addr = 0x776a0
+comment = "0xA4 = 164LL = SDL_Mouse::last_y"
+decompiled = true
+
+[0x776f8]
+last_change = 2026-09-10T18:36:01.087496Z
+addr = 0x776f8
+func_addr = 0x776a0
+comment = "0xC0 = 192LL = SDL_Mouse::has_position"
+decompiled = true
+
+[0x77708]
+last_change = 2026-09-10T18:36:01.087501Z
+addr = 0x77708
+func_addr = 0x776a0
+comment = "0xC2 = 194LL = SDL_Mouse::relative_mode_warp_motion"
+decompiled = true
+
+[0x7772a]
+last_change = 2026-09-10T18:36:01.087506Z
+addr = 0x7772a
+func_addr = 0x776a0
+comment = "0x30 = 48LL = SDL_Mouse::WarpMouse"
+decompiled = true
+
+[0x776df]
+last_change = 2026-09-10T18:36:01.089193Z
+addr = 0x776df
+func_addr = 0x776a0
+comment = "0x88 = 136LL = SDL_Mouse::focus"
+decompiled = true
+
+[0x7796c]
+last_change = 2026-09-10T18:36:01.089327Z
+addr = 0x7796c
+func_addr = 0x777f0
+comment = "0xF0 = 240LL = SDL_Mouse::was_touch_mouse_events"
+decompiled = true
+
+[0x77975]
+last_change = 2026-09-10T18:36:01.089332Z
+addr = 0x77975
+func_addr = 0x777f0
+comment = "0x128 = 296LL = SDL_Mouse::cursor_visible"
+decompiled = true
+
+[0x78aee]
+last_change = 2026-09-10T18:36:01.093008Z
+addr = 0x78aee
+func_addr = 0x78ac0
+comment = "0xC1 = 193LL = SDL_Mouse::relative_mode"
+decompiled = false
+
+[0x78afb]
+last_change = 2026-09-10T18:36:01.093017Z
+addr = 0x78afb
+func_addr = 0x78ac0
+comment = "0x40 = 64LL = SDL_Mouse::SetRelativeMouseMode"
+decompiled = true
+
+[0x78af5]
+last_change = 2026-09-10T18:36:01.094691Z
+addr = 0x78af5
+func_addr = 0x78ac0
+comment = "0xC1 = 193LL = SDL_Mouse::relative_mode"
+decompiled = true

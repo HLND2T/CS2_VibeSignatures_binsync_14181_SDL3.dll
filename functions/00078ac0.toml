@@ -1,10 +1,12 @@
-last_change = 2026-09-10T06:52:54.040116Z
+last_change = 2026-09-10T18:36:01.094691Z
 addr = 0x78ac0
 size = 0xf6
-name = "sub_180079AC0"
+name = "SDL_SetRelativeMouseMode"
+type = "char"
 
 [header]
-name = "sub_180079AC0"
+name = "SDL_SetRelativeMouseMode"
 addr = 0x78ac0
+type = "char"
 
 [header.args]
