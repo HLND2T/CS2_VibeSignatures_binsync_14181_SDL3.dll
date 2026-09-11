@@ -1,12 +1,10 @@
-last_change = 2026-09-10T18:36:00.528952Z
+last_change = 2026-09-11T03:32:13.472033Z
 addr = 0x76f90
 size = 0x8
-name = "SDL_GetMouse"
-type = "void *"
+name = "sub_180077F90"
 
 [header]
-name = "SDL_GetMouse"
+name = "sub_180077F90"
 addr = 0x76f90
-type = "void *"
 
 [header.args]
